@@ -1,0 +1,33 @@
+_repo: All-About-Miniature-Plants-and-Gardens-Indoors-and-Out_69767
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Bourke, Kathleen
+    gutenberg_agent_id: '55417'
+    url: http://www.gutenberg.org/2009/agents/55417
+  - agent_name: Schaefer, Fritz
+    gutenberg_agent_id: '55416'
+    url: http://www.gutenberg.org/2009/agents/55416
+creator:
+  author:
+    agent_name: Brilmayer, Bernice Gaines
+    gutenberg_agent_id: '55415'
+    url: http://www.gutenberg.org/2009/agents/55415
+description: ''
+gutenberg_issued: '2023-01-12'
+identifiers:
+  gutenberg: '69767'
+language: en
+pgterms:marc905: 20200926224319brilmayer
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: 'United States: Doubleday and Company,1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: All About Miniature Plants and Gardens Indoors and Out
+url: http://www.gutenberg.org/ebooks/69767
