@@ -8,12 +8,17 @@ contributor:
   - agent_name: Schaefer, Fritz
     gutenberg_agent_id: '55416'
     url: http://www.gutenberg.org/2009/agents/55416
+covers:
+- cover_type: archival
+  image_path: 69767-h/images/cover.jpg
 creator:
   author:
     agent_name: Brilmayer, Bernice Gaines
     gutenberg_agent_id: '55415'
     url: http://www.gutenberg.org/2009/agents/55415
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69767#All-About-Miniature-Plants-and-Gardens-Indoors-and-Out
 gutenberg_issued: '2023-01-12'
 identifiers:
   gutenberg: '69767'
